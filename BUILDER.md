@@ -1,4 +1,4 @@
-## BUILDER _(creational)_
+## BUILDER [_(creational)_](GAMMA.md#creatoinal-patterns)
 
 When piecewise object construction is complicated, provide an API for doing it successfully
 
